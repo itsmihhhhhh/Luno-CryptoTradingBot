@@ -5,9 +5,9 @@ A trading bot used to monitor the moving average of the current price, bid price
 # Content 
 1. Our Trading Bot [(See here)](#Our-Trading-Bot)
 2. Our Bot Strategy [(See here)](#Our-Bot-Strategy)
-3. Limitations of Our Bot Strategy [(See here)](#Limitations-ofOur-Bot-Strategy)
-4. How does our bot work? [(See here)](#How-does-our-bot-work-?)
-5. Links to different currency pairs traded wih [(See here)](#Link-to-our-different-currency-pairs-:)
+3. Limitations of Our Bot Strategy [(See here)](#Limitations-of-Our-Bot-Strategy)
+4. How does our bot work? [(See here)](#How-does-our-bot-work?)
+5. Links to different currency pairs traded wih [(See here)](#Link-to-our-different-currency-pairs:)
 
 
 ## Our Trading Bot 
