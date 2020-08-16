@@ -3,15 +3,15 @@ A trading bot used to monitor the moving average of the current price, bid price
 
 
 # Content 
-1. Our Trading Bot [(See here)](#Our-Trading-Bot)
-2. Our Bot Strategy [(See here)](#Our-Bot-Strategy)
-3. Limitations of Our Bot Strategy [(See here)](#Limitations-of-Our-Bot-Strategy)
-4. How does our bot work? [(See here)](#How-does-our-bot-work?)
+1. Our Trading Bot: Nobot [(See here)](#Our-Trading-Bot)
+2. Our Bot Strategy : Moving Average [(See here)](#Our-Bot-Strategy)
+3. Limitations of Our Bot Strategy. [(See here)](#Limitations-of-Our-Bot-Strategy)
+4. How does our bot work? [(See here)](#How-does-our-bot-work)
 5. Links to different currency pairs we traded with [(See here)](#Link-to-our-different-currency-pairs)
 
 
 ## Our Trading Bot 
-We created a cryptocurrency trading bot by the name of Noobot that helps to facilitate trading on Luno, a trading platform that enables us to successfully buy and trade Bitcoin, Ethereum, XRP and Litecoin. Before starting on our bot, we had to first choose a trading strategy that we wanted to implement in the bot which will be explained in the next section [see below](#Our-Bot-Strategy).
+We created a cryptocurrency trading bot by the name of No bot that helps to facilitate trading on Luno, a trading platform that enables us to successfully buy and trade Bitcoin, Ethereum, XRP and Litecoin. Before starting on our bot, we had to first choose a trading strategy that we wanted to implement in the bot which will be explained in the next section [see below](#Our-Bot-Strategy).
 
 
 ## Our Bot Strategy 
