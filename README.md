@@ -27,7 +27,7 @@ From here, we have devised our bot so that it would be able to monitor the buy-s
 Since the cryptocurrency market is always fluctuating and ever-changing, we have decided to make use of the fact that no matter how high the price goes up, it is bound to decrease and come back down to maintain the level of equilibrium in the market. 
 
 
-Hence, for our bot strategy, it is stimulated from the three lines in the Bollinger Band indicator (the Upper, Middle and Lower bands) besides our bid price and ask price which would make our bot buysell at a more accurate price. However, as compared to the bollinger band strategy which uses data from the current price, we have also used past data to compare and contrast with. 
+Hence, for our bot strategy, it is stimulated from the three lines in the Bollinger Band indicator (the Upper, Middle and Lower bands) besides our bid price and ask price which would make our bot buysell at a more accurate price. However, as compared to the Bollinger band strategy which uses data from the current price, we are making use of the bid price and the ask price on the Luno order book to calculate the buysell price. Hence, because the cryptocurrency buysell prices keeps changing according to the demand of the market, it therefore shows a more accurate buysell price than the Bollinger band indicator. 
 
 
 
